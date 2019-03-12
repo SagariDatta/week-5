@@ -1,4 +1,5 @@
-# Week 5: More with APIs: Census and Twitter Data
+# Week 5: 
+## Getting Data I: Census and Twitter APIs
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Spring-2019/week-5/master?filepath=lecture-5.ipynb)
 
