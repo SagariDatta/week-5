@@ -22,8 +22,6 @@ Then you can activate the environment and start a notebook
 conda activate musa-620
 ```
 
-## Topics
-
 ## New Packages
 
 - [`census`](https://github.com/datamade/census)
